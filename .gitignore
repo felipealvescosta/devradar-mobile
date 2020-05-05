@@ -12,4 +12,5 @@ web-report/
 *.log
 *.lock
 # macOS
+#mac
 .DS_Store
